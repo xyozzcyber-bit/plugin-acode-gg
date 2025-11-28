@@ -1,10 +1,7 @@
 # Gradient Generator
 This is an acode plugin that can be used to create gradient colors. 
 # How to use✨ 
-1. Open the command palette 
-2. Type "Gradient Generator" 
-and voila, create your own gradient🚀 
-Shortcut: CTRL + SHIFT + G
+Open with button 🎨
 
 # Changelog
 <details>
